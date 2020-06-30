@@ -1,0 +1,13 @@
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.exe
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.deps.json
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.runtimeconfig.json
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.runtimeconfig.dev.json
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.dll
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\bin\Debug\netcoreapp3.1\SyncEx.pdb
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.csprojAssemblyReference.cache
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.AssemblyInfoInputs.cache
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.AssemblyInfo.cs
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.csproj.CoreCompileInputs.cache
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.dll
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.pdb
+F:\Kasthuri-Summer 2020\CS-4540\Midterm\Presentation\AsyncSync\SyncEx\obj\Debug\netcoreapp3.1\SyncEx.genruntimeconfig.cache
